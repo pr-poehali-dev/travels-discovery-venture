@@ -46,7 +46,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Compass" size={28} className="text-blue-600" />
-              <span className="font-bold text-xl text-gray-900">TRAVEL BLOG</span>
+              <span className="font-bold text-xl text-gray-900">РосТур</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#routes" className="text-gray-700 hover:text-blue-600 transition-colors font-medium">Маршруты</a>
@@ -295,7 +295,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
               <Icon name="Compass" size={28} className="text-blue-400" />
-              <span className="font-bold text-xl">TRAVEL BLOG</span>
+              <span className="font-bold text-xl">РосТур</span>
             </div>
             <div className="flex space-x-6">
               <Icon name="Instagram" size={24} className="text-gray-400 hover:text-white cursor-pointer transition-colors" />
@@ -304,7 +304,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Travel Blog. Все права защищены.</p>
+            <p>&copy; 2024 РосТур. Все права защищены.</p>
           </div>
         </div>
       </footer>
